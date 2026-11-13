@@ -2,7 +2,3 @@
 ## Live Dashboard
 
 https://public.tableau.com/app/profile/suguna.c5427/viz/Supermarket_Dashboard_17945746549390/Dashboard1?publish=yes
-
-## Dashboard Preview
-
-"C:\Users\Suguna\Pictures\Screenshots\Screenshot (10).png"
