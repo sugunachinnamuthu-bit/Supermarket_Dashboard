@@ -1,8 +1,8 @@
 # Supermarket_Dashboard
 ## Live Dashboard
 
-[View Interactive Dashboard](PASTE_YOUR_TABLEAU_LINK)
+https://public.tableau.com/app/profile/suguna.c5427/viz/Supermarket_Dashboard_17945746549390/Dashboard1?publish=yes
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard_Screenshot.png)
+"C:\Users\Suguna\Pictures\Screenshots\Screenshot (10).png"
